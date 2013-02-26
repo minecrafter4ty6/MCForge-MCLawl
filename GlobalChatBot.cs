@@ -316,7 +316,7 @@ namespace MCForge
             }
 
             //for RoboDash's anti advertise/swear in #globalchat
-            if (message.Contains("^ISASERVER"))
+            if (message.Contains("^ISASERVER "))
             {
                 if (Server.GlobalChatNick == message.Split(' ')[1])
                 {
