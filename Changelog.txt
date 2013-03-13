@@ -1,3 +1,16 @@
+v5.5.12
+-New:
+  -Dynamic compilation for external DLLs (thanks headdetect)
+  -Added PlayerRotateEvent
+  -New message when players try to skip ranks (thanks xShOtDoOdx)
+-Fixes:
+  -GC can no longer be used in Chat Moderation (thanks nniels900000)
+  -Proper error reporting when IRC errors (thanks niels900000)
+  -Player table and Opstats table now uses TEXT to avoid MySQL/SQLite errors
+  -Other backend fixes and improvements
+-Removals:
+  N/A
+
 v5.5.11
 -New:
   -Rewrote /report with the option to clear all reports
