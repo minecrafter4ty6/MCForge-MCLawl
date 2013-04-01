@@ -9,7 +9,7 @@ Minecraft Classic Custom Server Software
 About MCForge Classic
 ---------------------
 
-MCForge classic is a classic Minecraft server software based on MCLawl.  It has been released under an open-source license to allow the community to help us develop it further.  We welcome all pull requests and will merge them in at our own discretion.  For more information, visit [our wiki][1].
+MCForge classic is a classic Minecraft server software based on MCLawl.  It has been released under an open-source license to allow the community to help us develop it further.
 
 The official website for MCForge is [mcforge.net][2]
 
