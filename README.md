@@ -3,7 +3,8 @@ MCForge Classic
 
 Minecraft Classic Custom Server Software
 
-#This repo is no longer being updated and will be deleted on 4/1/13
+#This repo is no longer being updated. All pull requests and issues will be ignored.
+#Long Live Minecraft Classic!
 
 About MCForge Classic
 ---------------------
