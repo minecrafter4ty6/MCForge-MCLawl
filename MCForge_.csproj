@@ -657,6 +657,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <None Include="MCForge-MCLawl.licenseheader" />
     <None Include="Service References\TranslateService\MCForge.TranslateService.GetTranslationsResponse.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>

@@ -1,23 +1,25 @@
 /*
-   ______________________________________________________
-Can be included and resold as part of a larger work (sublicensable)
-Commercial use allowed under the following conditions :
-Command May only be used by MCForge users.This only gives permission to MCForge and users, This may not be posted on any other site and or forums without the permission of the maker [xTYx728]
-Can modify source-code but cannot distribute modifications (derivative works)
-Support provided as follows :
-For this command any, issues you may contact the maker for help.
-Attribution to software creator must be made as specified:
-Any edits MUST be reported back to the MCForge forums and credit MUST be given to the respected maker
-Software trademarks are included in the license
-Software patents are included in the license
-Additional terms:
-This command is not to be posted on ANY other site and (or) forums. Any edits credit MUST be given to the respected owner.
-_______________________________________________________________________________________________________
+Copyright (C) 2010-2013 David Mitchell
 
-for full licences please go to http://www.binpress.com/license/view/l/2043171cc2d4e3237680e59d87e4dae6
-_______________________________________________________________________________________________________
- Idea by tommyz_. made by xTYx728
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 */
+
 using System.Threading;
 namespace MCForge.Commands
 {

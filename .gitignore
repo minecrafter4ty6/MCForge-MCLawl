@@ -9,6 +9,7 @@
 *.user
 *.[Cc]ache
 *.bak
+*.licenseheader
 
 #OS garbage
 [Tt]humbs.db
