@@ -25,7 +25,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Net;
 
-namespace MCForge
+namespace MCFork
 {
 	public sealed class OmniBan
 	{
@@ -36,7 +36,7 @@ namespace MCForge
 		public OmniBan()
 		{
 			bans = new List<string>();
-			kickMsg = "You are Omnibanned! Visit mcforge.net to appeal.";
+			kickMsg = "You are Omnibanned!
 		}
 
 		public void Load(bool web)
