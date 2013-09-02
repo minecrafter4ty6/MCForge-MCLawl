@@ -25,7 +25,7 @@ using System.Net.NetworkInformation;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace MCForge
+namespace MCFork
 {
     public static class Permalink
     {
